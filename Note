@@ -1,0 +1,13 @@
+App.js: Sets up routes, including a fallback route for unmatched paths.
+
+Navbar.js: Provides navigation links to the Home and About pages.
+
+Loader.js: Displays a loading spinner while data is being fetched.
+
+Home.js: Contains the search functionality and calls the Open Library API.
+
+BookCard.js: Displays individual book information.
+
+NotFound.js: Displays a 404 message when a route isn’t found.
+
+These comments and this README will help others understand the structure, purpose, and usage of each part of your app. Let me know if you need further customization
